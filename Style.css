@@ -1,0 +1,55 @@
+.texto{
+    text-align: justify;
+}
+a:link {
+    color: rgb(184, 55, 151);
+}
+a:visited {
+    color: rgb(77, 41, 41);
+}
+a:hover {
+    background-color: chocolate;
+}
+a:active {
+    background-color: cornflowerblue;
+}
+
+.texto {
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(255, 208, 139)
+}
+
+span, em, .lmao {
+        color: rgb(182, 0, 112);
+    }
+div nav {
+    text-align: center;
+
+}
+li:hover {
+    background-color: lightblue;
+}
+.bless, #año, .año {
+    color: rgb(40, 92, 58);
+}
+div div p {
+    display: block;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: rgb(255, 208, 139);
+   }
+#aeoo {
+    text-align: justify;
+    background-color: rgb(255, 208, 139);
+    display: block;
+    padding: 20px;
+    margin: 20px;
+    width: 30%;
+}
+section {
+    margin: 10px;
+}
